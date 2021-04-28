@@ -6,4 +6,8 @@ Linear regression is a statistical method for modelling relationship between a d
 Problem Statement: -
 
 A certain food based company conducted a survey with the help of a fitness company spread across the country to find  relationship between a person’s weight gain and the no of calories consumed by them in order to come up a diet plan for individuals that fall under different weight groups. Approach - A Simple Linear regression model needs to be built with target variable ‘Calories.Consumed’. Apply necessary transformations and record the RMSE values, Correlation coefficient values for different transformation models. 
+ 
+ 
+2nd
 
+Problem Statement: - A food delivery service recorded the data of  delivery time taken and the time taken for the deliveries to be sorted by the restaurants in order to improve their delivery services. Approach – A Simple Linear regression model needs to be built with target variable ‘Delivery.Time’. Apply necessary transformations and record the RMSE values, Correlation coefficient values for different transformation models.
